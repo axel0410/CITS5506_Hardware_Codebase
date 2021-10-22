@@ -1,3 +1,9 @@
+/*
+Coded by: Shane Martinez 
+
+A How to Guide for hardware and software has been included in the github Repository (How_to_Guide.docx)
+
+*/
 #include "ESP_DHT.h"
 #include "Adafruit_CCS811.h"
 #include "ESP_Dust.h"
